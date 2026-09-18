@@ -6,9 +6,9 @@
 #### Ingested Data Sources:
 The current vector database is pre-loaded with three advanced academic papers regarding retrieval systems and object detection:
 <ul>
-  <li>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation.<a href="data/pdf/attention.pdf">PDF</a></li>
-  <li>Embedding-Free RAG: An algorithmic framework leveraging LLM reasoning to replace traditional embedding-based retrieval. <a href="data/pdf/embedding.pdf">PDF</a></li>
-  <li>RALF: Retrieval-Augmented Open-Vocabulary Object Detection. <a href="data/pdf/Object Detection.pdf">PDF</a></li>
+  <li>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation.<a href="pdf/attention.pdf">PDF</a></li>
+  <li>Embedding-Free RAG: An algorithmic framework leveraging LLM reasoning to replace traditional embedding-based retrieval. <a href="pdf/embedding.pdf">PDF</a></li>
+  <li>RALF: Retrieval-Augmented Open-Vocabulary Object Detection. <a href="pdf/Object Detection.pdf">PDF</a></li>
 </ul>
     
 ---
